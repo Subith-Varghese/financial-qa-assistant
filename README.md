@@ -103,10 +103,17 @@ Then open 👉 http://localhost:8501
 
 ## 🎯 Example Usage
 1. Upload financial_statement.xlsx
-
 2. App extracts and shows metrics:
+```
+Revenue    1000000   1200000
+Profit      250000    300000
+Expenses    500000    550000
 
+```
 3. Ask questions in chat:
 
----
+```
+You: What was the revenue in 2023?
+Assistant: The revenue in 2023 was 1000000.0
 
+```
