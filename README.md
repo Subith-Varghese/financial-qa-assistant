@@ -22,7 +22,8 @@ Users can upload financial statements in **PDF/XLSX** format.
 ### 2. Extracted Financial Insights  
 Once uploaded, 
 The app automatically extracts key metrics such as ;
-- Revenue, Profit, Expenses, Assets, Equity, and Cash Flow and displays them in a clean table.
+
+Revenue, Profit, Expenses, Assets, Equity, and Cash Flow and displays them in a clean table.
 ![Extracted Insights](https://github.com/Subith-Varghese/financial-qa-assistant/blob/dccb96bd2be0eebbaf592ee8ba39679a44a7f191/screenshot_insights.png)
 
 ### 3. Ask Questions About the Document  
