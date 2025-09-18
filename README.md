@@ -79,6 +79,7 @@ $1,234,567   → 1234567.0
 --- 
 
 ## 🛠️ Setup & Installation
+
 ### 1. Install Python dependencies
 ```
 pip install -r requirements.txt
