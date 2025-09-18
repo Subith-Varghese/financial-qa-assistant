@@ -15,8 +15,30 @@ financial-qa-assistant/
 
 ```
 --- 
-##  1. App Home Page – Upload Section
+### 1. App Home Page – Upload Section
 Users can upload financial statements in **PDF/XLSX** format.  
+![Upload Section](https://github.com/Subith-Varghese/financial-qa-assistant/blob/dccb96bd2be0eebbaf592ee8ba39679a44a7f191/screenshot_home_upload.png)
+
+---
+
+### 2. Extracted Financial Insights  
+Once uploaded, The app automatically extracts key metrics such as Revenue, Profit, Expenses, Assets, Equity, and Cash Flow and displays them in a clean table.
+![Extracted Insights](https://github.com/Subith-Varghese/financial-qa-assistant/blob/dccb96bd2be0eebbaf592ee8ba39679a44a7f191/screenshot_insights.png)
+
+---
+
+### 3. Ask Questions About the Document  
+Users can ask questions like *“What was the revenue in 2022 and 2023?”*.  
+![Ask Questions](https://github.com/Subith-Varghese/financial-qa-assistant/blob/dccb96bd2be0eebbaf592ee8ba39679a44a7f191/screenshot_question.png)
+
+---
+
+### 4. Interactive Q&A with Memory
+The assistant provides instant answers based on extracted data, while remembering the conversation history for a smooth, chat-like experience.
+![Interactive Q&A](https://github.com/Subith-Varghese/financial-qa-assistant/blob/dccb96bd2be0eebbaf592ee8ba39679a44a7f191/screenshot_answers.png)
+
+---
+
 ---
 ## Workflow
 
